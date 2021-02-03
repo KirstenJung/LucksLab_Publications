@@ -4,7 +4,7 @@ Jung, Alam et al. (2020)
 ---
 
 ## Supplementary Data Files
-Below are the descriptions of the supplementary data files for the manuscript. These files are available at "LINKTBD."
+Below are the descriptions of the supplementary data files for the manuscript. These files are available at "https://www.nature.com/articles/s41587-020-0571-7".
 
 | File | Description |
 | ---: | :----------- |
